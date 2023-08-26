@@ -1,2 +1,3 @@
 0936. 🔧 refactor: organize models into subfolders
 0335. ♻️ chore: update .gitignore
+0429. ✨ feat: add user authentication
