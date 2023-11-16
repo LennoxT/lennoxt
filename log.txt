@@ -18,3 +18,4 @@
 0620. ✨ feat: implement quiz timer feature
 0349. ✅ test: increase coverage on auth module
 0617. ✨ feat: support email verification
+0784. ♻️ chore: clean up unused files
