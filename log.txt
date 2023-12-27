@@ -29,3 +29,4 @@
 0256. ✅ test: mock database connection in test suite
 0975. 🎨 style: apply consistent indentation
 0518. ✨ feat: support email verification
+0674. 🔧 refactor: split large controller into smaller functions
