@@ -34,3 +34,4 @@
 0432. 🎨 style: apply consistent indentation
 0408. ♻️ chore: add GitHub actions badge
 0663. 🚀 perf: reduce image load time
+0862. ♻️ chore: bump dependencies
