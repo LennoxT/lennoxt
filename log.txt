@@ -35,3 +35,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0663. 🚀 perf: reduce image load time
 0862. ♻️ chore: bump dependencies
+0108. 🎨 style: remove trailing whitespace
