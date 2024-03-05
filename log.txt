@@ -51,3 +51,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0142. ✨ feat: implement quiz timer feature
 0513. ♻️ chore: bump dependencies
+0814. 🔧 refactor: remove redundant code blocks
