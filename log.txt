@@ -66,3 +66,4 @@
 0766. 🎨 style: reformat files with black
 0726. ✨ feat: enable dark mode toggle
 0347. ♻️ chore: update .gitignore
+0574. ✨ feat: enable dark mode toggle
