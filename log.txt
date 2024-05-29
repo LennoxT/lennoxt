@@ -67,3 +67,4 @@
 0726. ✨ feat: enable dark mode toggle
 0347. ♻️ chore: update .gitignore
 0574. ✨ feat: enable dark mode toggle
+0316. 🐛 fix: fix broken CSS in mobile view
