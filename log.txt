@@ -69,3 +69,4 @@
 0574. ✨ feat: enable dark mode toggle
 0316. 🐛 fix: fix broken CSS in mobile view
 0887. 📚 docs: add API usage examples
+0379. ✨ feat: support email verification
