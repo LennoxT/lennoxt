@@ -75,3 +75,4 @@
 0205. 📚 docs: update README with setup steps
 0228. 🔧 refactor: remove redundant code blocks
 0596. ♻️ chore: update .gitignore
+0337. 📚 docs: document token refresh logic
