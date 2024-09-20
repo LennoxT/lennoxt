@@ -94,3 +94,4 @@
 0744. 🔧 refactor: remove redundant code blocks
 0245. 🐛 fix: resolve issue with date parsing
 0091. ✨ feat: add user authentication
+0947. 📚 docs: write FAQ section
