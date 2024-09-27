@@ -96,3 +96,4 @@
 0091. ✨ feat: add user authentication
 0947. 📚 docs: write FAQ section
 0789. ✨ feat: create admin dashboard
+0885. ♻️ chore: update .gitignore
