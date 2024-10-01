@@ -97,3 +97,4 @@
 0947. 📚 docs: write FAQ section
 0789. ✨ feat: create admin dashboard
 0885. ♻️ chore: update .gitignore
+0573. ✅ test: add integration test for /submit endpoint
