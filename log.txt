@@ -101,3 +101,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0368. 🚀 perf: lazy-load components
 0106. 🎨 style: reformat files with black
+0177. 📚 docs: add API usage examples
