@@ -112,3 +112,4 @@
 0420. 🚀 perf: reduce image load time
 0471. ✨ feat: support email verification
 0717. 🔧 refactor: refactor quiz grading logic
+0397. 🐛 fix: handle 500 error in quiz API
