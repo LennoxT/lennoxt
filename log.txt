@@ -133,3 +133,4 @@
 0357. ✅ test: add unit test for quiz service
 0933. 📚 docs: clarify environment setup
 0012. 🚀 perf: cache repeated calculations
+0588. 🔧 refactor: organize models into subfolders
