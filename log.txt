@@ -136,3 +136,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0438. ♻️ chore: bump dependencies
 0124. 🎨 style: reformat files with black
+0978. 🐛 fix: prevent crash on empty input
