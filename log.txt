@@ -138,3 +138,4 @@
 0124. 🎨 style: reformat files with black
 0978. 🐛 fix: prevent crash on empty input
 0851. ✅ test: mock database connection in test suite
+0367. 🐛 fix: fix null pointer exception on login
