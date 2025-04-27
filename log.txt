@@ -147,3 +147,4 @@
 0707. 🎨 style: apply consistent indentation
 0385. ♻️ chore: clean up unused files
 0271. ✅ test: add unit test for quiz service
+0395. 📚 docs: write FAQ section
