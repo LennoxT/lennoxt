@@ -161,3 +161,4 @@
 0315. ✅ test: add integration test for /submit endpoint
 0616. 🚀 perf: lazy-load components
 0076. 🎨 style: reformat files with black
+0763. 🔧 refactor: organize models into subfolders
