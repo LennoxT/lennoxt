@@ -164,3 +164,4 @@
 0763. 🔧 refactor: organize models into subfolders
 0262. 🎨 style: remove trailing whitespace
 0163. ✨ feat: implement quiz timer feature
+0565. ♻️ chore: add GitHub actions badge
