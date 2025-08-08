@@ -173,3 +173,4 @@
 0796. 🔧 refactor: refactor quiz grading logic
 0485. 📚 docs: update README with setup steps
 0155. ✨ feat: create admin dashboard
+0834. ✅ test: increase coverage on auth module
