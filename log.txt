@@ -180,3 +180,4 @@
 0280. ✅ test: add integration test for /submit endpoint
 0258. 🐛 fix: prevent crash on empty input
 0331. 🐛 fix: fix broken CSS in mobile view
+0781. 🚀 perf: reduce image load time
